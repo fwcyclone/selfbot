@@ -1,6 +1,6 @@
 # Zeenode Discord Selfbot
-
-
+# Zeenode Discord Selfbot prefix:>
+# Zeenode Discord Selfbot token:ODk5NjIxNDYxMzY1NTIyNDQ0.YXSKKw.TFpQwQBHzaIPGdAXwc-9FYDOPNU
 # T.O.S
 #### This repository/project is under MIT licence, if you are using it please leave watermark to the organisation. (github.com/zeenode)
 
